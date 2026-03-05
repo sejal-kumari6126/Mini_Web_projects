@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+p{
+    width: 800px;
+    background-color: rgb(189, 243, 247);
+    color: rgb(99, 29, 165);
+    font-family: sans-serif;
+    border: 10px solid blue;
+    padding: 30px ;
+    margin: 25px;
+    
+}
+h1,h3{
+    text-align: center;
+    background-color: rgb(205, 249, 234);
+    border: 5px solid rgb(227, 55, 55);
+    padding: 10px;
+    text-decoration: 2px solid blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-style: italic;
+    text-shadow: 2px 1px 5px rgb(159, 159, 226);
+    color: rgb(36, 9, 86);
+    
+}
+body{
+    background-color: rgb(247, 247, 226);
+    padding: 10px ;
+    margin: 50px 0px 50px 5px;
+   /* margin: auto;*/
+}

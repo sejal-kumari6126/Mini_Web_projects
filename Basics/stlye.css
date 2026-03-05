@@ -1,0 +1,14 @@
+h1{
+    color: hsl(0, 100%, 25%);
+}
+.para{
+    color: green;
+}
+#btn{
+    background-color: pink;
+    color: white;
+}
+#btn:hover{
+    color: white;
+    background-color: black;
+}
